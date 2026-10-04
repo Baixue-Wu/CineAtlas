@@ -1,0 +1,96 @@
+[
+  {
+    "id": "tokyo",
+    "name": "东京",
+    "englishName": "Tokyo",
+    "region": "日本 · 东亚",
+    "latitude": 35.6762,
+    "longitude": 139.6503,
+    "color": "#d2e679",
+    "image": "images/tokyo.jpg",
+    "imageAlt": "东京新宿夜晚的街道与出租车",
+    "introduction": "从家庭里的沉默，到每天重复的小小仪式。借两种不同的目光，走进东京街道背后的日常。",
+    "question": "在一座忙碌的城市里，人们如何留住亲密与自己的节奏？"
+  },
+  {
+    "id": "hong-kong",
+    "name": "香港",
+    "englishName": "Hong Kong",
+    "region": "中国 · 东亚",
+    "latitude": 22.3193,
+    "longitude": 114.1694,
+    "color": "#edac88",
+    "image": "images/hong-kong.jpg",
+    "imageAlt": "香港油麻地的夜间街道与红色出租车",
+    "introduction": "共用的走廊、深夜的外卖店、人与人擦肩的距离。电影里的香港，让密集的城市空间有了情感的温度。",
+    "question": "当人们住得很近，心与心的距离会变近吗？"
+  },
+  {
+    "id": "paris",
+    "name": "巴黎",
+    "englishName": "Paris",
+    "region": "法国 · 欧洲",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "color": "#b9c9eb",
+    "image": "images/paris.jpg",
+    "imageAlt": "暮色中的巴黎塞纳河与亚历山大三世桥",
+    "introduction": "跟着一个女人走过街头，或跟着三个年轻人穿行郊区与市中心。同一座巴黎，可以被不同的人活成不同的世界。",
+    "question": "谁能自在地走过一座城市，谁又总被挡在边缘？"
+  },
+  {
+    "id": "rome",
+    "name": "罗马",
+    "englishName": "Rome",
+    "region": "意大利 · 欧洲",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "color": "#eac28c",
+    "introduction": "走出古迹的剪影，看战争与战后生活中的普通人。街道既承载互助，也承载一家人的生计。",
+    "question": "当生活变得艰难，一座城市里的人怎样相互依靠？"
+  },
+  {
+    "id": "taipei",
+    "name": "台北",
+    "englishName": "Taipei",
+    "region": "中国台湾 · 东亚",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "color": "#8bcbbf",
+    "introduction": "在玻璃窗、办公室和家庭聚会之间，观察城市变迁如何进入人与人的关系。",
+    "question": "城市不断向前，人们如何与过去和彼此相处？"
+  },
+  {
+    "id": "mumbai",
+    "name": "孟买",
+    "englishName": "Mumbai",
+    "region": "印度 · 南亚",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "color": "#e1b5d2",
+    "introduction": "一份误送的午餐，两位护士的生活。跟着食物、通勤与女性的友谊，认识城市运转背后的人。",
+    "question": "在工作与照料之间，普通人从哪里获得理解和自由？"
+  },
+  {
+    "id": "mexico-city",
+    "name": "墨西哥城",
+    "englishName": "Mexico City",
+    "region": "墨西哥 · 北美洲",
+    "latitude": 19.4326,
+    "longitude": -99.1332,
+    "color": "#e0b06b",
+    "introduction": "将目光转向街头的孩子和家中的照料者，从常被忽略的人物出发，看见城市里的阶层与日常。",
+    "question": "是谁维持着城市的日常，又是谁容易从城市叙事里消失？"
+  },
+  {
+    "id": "dakar",
+    "name": "达喀尔",
+    "englishName": "Dakar",
+    "region": "塞内加尔 · 西非",
+    "latitude": 14.7167,
+    "longitude": -17.4677,
+    "color": "#d99891",
+    "introduction": "从离开家乡的愿望，到异乡生活的现实。两位塞内加尔导演以不同方式追问归属、劳动与远方。",
+    "question": "人们向往的远方，如何改变他们看待家乡的方式？"
+  }
+]

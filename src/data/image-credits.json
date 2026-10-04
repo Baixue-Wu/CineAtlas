@@ -1,0 +1,26 @@
+[
+  {
+    "destinationId": "tokyo",
+    "file": "images/tokyo.jpg",
+    "author": "Derch",
+    "source": "https://unsplash.com/photos/vehicles-on-roadway-between-lighted-buildings-at-night-4CMq1GxDSPA",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  {
+    "destinationId": "paris",
+    "file": "images/paris.jpg",
+    "author": "Léonard Cotte",
+    "source": "https://unsplash.com/photos/pont-alexandre-iii-bridge-in-paris-R5scocnOOdM",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  {
+    "destinationId": "hong-kong",
+    "file": "images/hong-kong.jpg",
+    "author": "Airam Dato-on",
+    "source": "https://unsplash.com/photos/vehicle-in-road-during-nighttime-OnAB7tWXxpA",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+]

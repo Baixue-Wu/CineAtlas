@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/rafsunsheikh/The-Chronicle-of-Light",
+  "commit": "1dc85d5be130601ed8b3ca9d2a3a0b53ec9b18e5",
+  "license": "MIT",
+  "adaptedFiles": [
+    "src/components/map/MapView.tsx",
+    "src/components/map/MapMarker.tsx",
+    "src/hooks/useHashRoute.ts"
+  ],
+  "note": "Historical dataset and its media are not copied."
+}
